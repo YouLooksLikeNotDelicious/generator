@@ -1,0 +1,5 @@
+struct Z {
+    int a;
+    int b;
+    string c;
+};

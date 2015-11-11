@@ -1,0 +1,1 @@
+struct test {map<int, string> c;}; struct info {int z;};struct abc{std::vector<info> a; std::vector<int> mm; std::string c; test z;}; struct cde {int z;};

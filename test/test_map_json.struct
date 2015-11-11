@@ -1,0 +1,8 @@
+struct Test
+{
+	std::map<std::string, std::string> a;
+	vector<int> m;
+	test z;
+	int c;
+	string mm;
+};
